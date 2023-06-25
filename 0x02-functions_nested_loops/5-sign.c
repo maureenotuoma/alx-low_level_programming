@@ -18,7 +18,7 @@ return (-1);
 }
 else
 {
-_putchar('+');
+_putchar('0');
 return (0);
 }
 }
