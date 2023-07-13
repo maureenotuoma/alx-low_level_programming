@@ -23,7 +23,7 @@ if (!s)
 return (NULL);
 while (i < len1)
 {
-s[1] = s1[i];
+s[i] = s1[i];
 i++;
 }
 while (n < len2 && i < (len1 + n))
